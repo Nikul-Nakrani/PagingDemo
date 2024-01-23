@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Paging Simple Demo</string>
+    <string name="str_full_names">full_names</string>
+</resources>
